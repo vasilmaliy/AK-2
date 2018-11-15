@@ -11,6 +11,9 @@ class Calculator
     public:
         static int Add (int, int);
         static int Mul (double, double);
+<<<<<<< HEAD
+>>>>>>> d61d32d... mark member-function as `static`
+=======
 >>>>>>> d61d32d... mark member-function as `static`
 };
 
